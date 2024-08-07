@@ -17,5 +17,11 @@ class MainActivity : AppCompatActivity() {
 
 
         println("Sherif")
+
+
+        for(i in "Qurban"){
+            println(i)
+        }
+
     }
 }
