@@ -16,6 +16,6 @@ class MainActivity : AppCompatActivity() {
         }
 
 
-        println("Qurban")
+        println("Sherif")
     }
 }
